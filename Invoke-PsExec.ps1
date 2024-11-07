@@ -10,6 +10,7 @@
 
 .LINK
     https://github.com/p8nflnt/psexec/blob/main/Invoke-PsExec.ps1
+    https://paytonflint.com/powershell-execute-scriptblock-using-psexec
 #>
 
 # Clear variables for repeatability
