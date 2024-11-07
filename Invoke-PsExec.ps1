@@ -9,7 +9,7 @@
     DateCreated: 2024-Aug
 
 .LINK
-    https://youtu.be/dQw4w9WgXcQ?si=mFplzW-sd_qkIEB1
+    https://github.com/p8nflnt/psexec/blob/main/Invoke-PsExec.ps1
 #>
 
 # Clear variables for repeatability
